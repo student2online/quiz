@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>ห้องเรียนออนไลน์ ม.ปลาย</title>
+<title>My Quiz Profile</title>
 <base target="_top">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -9,7 +9,7 @@
 </head>
 
 <div align="center">
-<iframe src="https://script.google.com/macros/s/AKfycbzvAdO2cTYodHGGnEGbJA25gRiqHQroxQcMiclleqlRPIjGkU4e4Rv3PaZbuqkIH_Gm/exec/exec" 
+<iframe src="https://script.google.com/macros/s/AKfycbwRQx5xr4XWBLGvTlpnRvwOGX3dfs1Ybe4HvMiiVygGossRmqUZsMHTwEJP4QtLgecpYQ/exec" 
 
 style="
     position: fixed;
